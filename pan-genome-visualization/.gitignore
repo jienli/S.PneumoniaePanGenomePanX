@@ -1,0 +1,5 @@
+node_modules/*
+public/dist/*
+public/dataset/*
+public/bower_components/
+public/javascripts/meta-dict-*
