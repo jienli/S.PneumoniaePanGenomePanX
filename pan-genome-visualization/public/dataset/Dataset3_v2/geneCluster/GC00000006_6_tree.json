@@ -1,0 +1,1 @@
+{"branch_length": 0.0001, "name": "NODE_0000000", "children": [{"branch_length": 1e-06, "name": "CP035262|EQH18_07745", "accession": "CP035262", "muts": "", "aa_muts": "", "annotation": "DNA_alkylation_repair_protein"}, {"branch_length": 1e-06, "name": "CP035263|EQH17_07730", "accession": "CP035263", "muts": "", "aa_muts": "", "annotation": "DNA_alkylation_repair_protein"}]}

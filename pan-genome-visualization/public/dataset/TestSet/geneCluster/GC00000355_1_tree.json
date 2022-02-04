@@ -1,0 +1,1 @@
+{"branch_length": 0.0001, "name": "NODE_0000000", "children": [{"branch_length": 0.000366571, "name": "NC_018495|CM9_RS02505", "accession": "NC_018495", "muts": "T1049C", "aa_muts": "", "annotation": "enolase"}, {"branch_length": 0.000366571, "name": "NC_000908|MG_RS02465", "accession": "NC_000908", "muts": "", "aa_muts": "", "annotation": "enolase"}]}

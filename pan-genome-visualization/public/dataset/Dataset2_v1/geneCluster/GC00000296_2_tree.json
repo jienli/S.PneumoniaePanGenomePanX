@@ -1,0 +1,1 @@
+{"branch_length": 0.0001, "name": "NODE_0000000", "children": [{"branch_length": 1e-06, "name": "CNYC02.1|ERS070133_01368", "accession": "CNYC02.1", "muts": "", "aa_muts": "", "annotation": "hypothetical_protein"}, {"branch_length": 1e-06, "name": "CNYB02.1|ERS070131_01499", "accession": "CNYB02.1", "muts": "", "aa_muts": "", "annotation": "hypothetical_protein"}]}

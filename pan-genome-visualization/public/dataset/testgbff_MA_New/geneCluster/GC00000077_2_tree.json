@@ -1,0 +1,1 @@
+{"branch_length": 0.0001, "name": "NODE_0000000", "children": [{"branch_length": 1e-06, "name": "CFIE02.1|ERS070206_01574", "accession": "CFIE02.1", "muts": "", "aa_muts": "", "annotation": "N-acetylneuraminate_lyase"}, {"branch_length": 1e-06, "name": "CFIP02.1|ERS043918_01552", "accession": "CFIP02.1", "muts": "", "aa_muts": "", "annotation": "N-acetylneuraminate_lyase"}]}

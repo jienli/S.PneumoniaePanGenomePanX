@@ -1,0 +1,1 @@
+{"branch_length": 0.0001, "name": "NODE_0000000", "children": [{"branch_length": 0.00183742, "name": "CP035250|EQH30_08870", "accession": "CP035250", "muts": "A73C", "aa_muts": "K25T", "annotation": "hypothetical_protein"}, {"branch_length": 0.00183742, "name": "NC_003028.3|SP_RS12385", "accession": "NC_003028.3", "muts": "", "aa_muts": "", "annotation": "hypothetical_protein"}]}

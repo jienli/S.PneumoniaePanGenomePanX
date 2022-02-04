@@ -1,0 +1,1 @@
+{"branch_length": 0.0001, "name": "NODE_0000000", "children": [{"branch_length": 0.000708735, "name": "CP035261|EQH19_02010", "accession": "CP035261", "muts": "T17C,T815C", "aa_muts": "", "annotation": "flippase"}, {"branch_length": 0.000708735, "name": "CP035260|EQH20_01715", "accession": "CP035260", "muts": "", "aa_muts": "", "annotation": "flippase"}]}

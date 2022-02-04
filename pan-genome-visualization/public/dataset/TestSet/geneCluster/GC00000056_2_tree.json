@@ -1,0 +1,1 @@
+{"branch_length": 0.0001, "name": "NODE_0000000", "children": [{"branch_length": 0.000337661, "name": "NC_018496|CM3_RS00195", "accession": "NC_018496", "muts": "", "aa_muts": "", "annotation": "glpK_glycerol_kinase"}, {"branch_length": 0.000337661, "name": "NC_018497|CM1_RS00190", "accession": "NC_018497", "muts": "T77C", "aa_muts": "", "annotation": "glpK_glycerol_kinase"}]}

@@ -1,0 +1,1 @@
+{"branch_length": 0.0001, "name": "NODE_0000000", "children": [{"branch_length": 1e-06, "name": "TVO_1901942|SPS0023_05780", "accession": "TVO_1901942", "muts": "", "aa_muts": "", "annotation": "hypothetical_protein"}, {"branch_length": 1e-06, "name": "NC_012467.1|SPP_RS11730", "accession": "NC_012467.1", "muts": "", "aa_muts": "", "annotation": "hypothetical_protein"}]}

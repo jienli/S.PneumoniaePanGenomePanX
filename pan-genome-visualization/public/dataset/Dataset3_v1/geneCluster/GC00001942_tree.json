@@ -1,0 +1,1 @@
+{"branch_length": 0.0001, "name": "NODE_0000000", "children": [{"branch_length": 1e-06, "name": "CP035261|EQH19_05240", "accession": "CP035261", "muts": "", "aa_muts": "", "annotation": "type_VI_secretion_protein_ImpB"}, {"branch_length": 1e-06, "name": "CP035237|EQH43_09620", "accession": "CP035237", "muts": "", "aa_muts": "", "annotation": "type_VI_secretion_protein_ImpB"}]}

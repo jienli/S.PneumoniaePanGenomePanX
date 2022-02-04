@@ -1,0 +1,1 @@
+{"branch_length": 0.0001, "name": "NODE_0000000", "children": [{"branch_length": 1e-06, "name": "CP035255|EQH25_05670", "accession": "CP035255", "muts": "", "aa_muts": "", "annotation": "replication_initiator_protein_A"}, {"branch_length": 1e-06, "name": "CP035256|EQH24_05875", "accession": "CP035256", "muts": "", "aa_muts": "", "annotation": "replication_initiator_protein_A"}]}

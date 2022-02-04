@@ -1,0 +1,1 @@
+{"branch_length": 0.0001, "name": "NODE_0000000", "children": [{"branch_length": 1e-06, "name": "CP035243|EQH37_02045", "accession": "CP035243", "muts": "", "aa_muts": "", "annotation": "polymerase"}, {"branch_length": 1e-06, "name": "CP035242|EQH38_10470", "accession": "CP035242", "muts": "", "aa_muts": "", "annotation": "polymerase"}]}

@@ -1,0 +1,1 @@
+{"branch_length": 0.0001, "name": "NODE_0000000", "children": [{"branch_length": 0.00214319, "name": "NC_012467.1|SPP_RS12115", "accession": "NC_012467.1", "muts": "", "aa_muts": "", "annotation": "transposase"}, {"branch_length": 0.00214319, "name": "NC_018630.1|HMPREF1038_RS11815", "accession": "NC_018630.1", "muts": "T13C", "aa_muts": "V5A", "annotation": "transposase"}]}

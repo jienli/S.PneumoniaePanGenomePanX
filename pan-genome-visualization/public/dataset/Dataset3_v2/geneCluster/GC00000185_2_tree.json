@@ -1,0 +1,1 @@
+{"branch_length": 0.0001, "name": "NODE_0000000", "children": [{"branch_length": 1e-06, "name": "CP035257|EQH23_05280", "accession": "CP035257", "muts": "", "aa_muts": "", "annotation": "integrase"}, {"branch_length": 1e-06, "name": "CP038253|ES298_05180", "accession": "CP038253", "muts": "", "aa_muts": "", "annotation": "integrase"}]}

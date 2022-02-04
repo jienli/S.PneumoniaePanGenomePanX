@@ -1,0 +1,1 @@
+{"branch_length": 0.0001, "name": "NODE_0000000", "children": [{"branch_length": 0.00146486, "name": "CP035255|EQH25_07700", "accession": "CP035255", "muts": "A252G", "aa_muts": "T85A", "annotation": "capsid_protein"}, {"branch_length": 0.00146486, "name": "CP035256|EQH24_00320", "accession": "CP035256", "muts": "", "aa_muts": "", "annotation": "capsid_protein"}]}

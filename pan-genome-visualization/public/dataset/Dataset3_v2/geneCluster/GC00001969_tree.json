@@ -1,0 +1,1 @@
+{"branch_length": 0.0001, "name": "NODE_0000000", "children": [{"branch_length": 1e-06, "name": "CP035235|EQH45_05495", "accession": "CP035235", "muts": "", "aa_muts": "", "annotation": "phage_portal_protein"}, {"branch_length": 1e-06, "name": "CP035244|EQH36_05450", "accession": "CP035244", "muts": "", "aa_muts": "", "annotation": "phage_portal_protein"}]}

@@ -1,0 +1,1 @@
+{"branch_length": 0.0001, "name": "NODE_0000000", "children": [{"branch_length": 1e-06, "name": "CP035241|EQH39_01700", "accession": "CP035241", "muts": "", "aa_muts": "", "annotation": "acetyltransferase"}, {"branch_length": 1e-06, "name": "TVO_1901949|SPS0030_06285", "accession": "TVO_1901949", "muts": "", "aa_muts": "", "annotation": "Arginine/ornithine_antiporter_ArcD"}]}
